@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshot_countdown.jpeg" alt="OBS Countdown Timer Preview" width="900">
+  <img src="screenshots_countdown.jpeg" alt="OBS Countdown Timer Preview" width="900">
 </p>
 
 # OBS Countdown Timer
